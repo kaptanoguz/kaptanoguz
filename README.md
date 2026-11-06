@@ -17,8 +17,8 @@ I'm a ship's captain who writes software. Most of what's here started as a tool 
 |---|---|
 | [**Loupe**](https://github.com/kaptanoguz/Loupe) | Local-first photo catalog: offline face recognition, semantic search, Wi-Fi transfer from your phone and encrypted cloud backup. Rust + Tauri. |
 | [**ShiftDrop**](https://github.com/kaptanoguz/ShiftDrop) | Drag a file, tap Shift, drop it on a wheel to convert: images, video, audio, PDF and documents, fully offline. Linux and Windows. |
-| [**Homeflix**](https://github.com/kaptanoguz/Homeflix_2) | Self-hosted, Netflix-style home media server for your own movies and series, with posters, collections, resume and subtitles. |
-| [**Torrent Bul**](https://github.com/kaptanoguz/torrent) | Simple torrent search and download app built on qBittorrent, with ratings, posters and streaming while downloading. |
+| [**Lumbuz**](https://github.com/kaptanoguz/Homeflix_2) | Self-hosted, Netflix-style home media server for your own movies and series, with posters, collections, resume and subtitles. |
+| [**Compass**](https://github.com/kaptanoguz/torrent) | Simple torrent search and download app built on qBittorrent, with ratings, posters and streaming while downloading. |
 
 ## 📸 A few screenshots
 
@@ -29,7 +29,7 @@ I'm a ship's captain who writes software. Most of what's here started as a tool 
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/kaptanoguz/Loupe"><img src="https://raw.githubusercontent.com/kaptanoguz/Loupe/HEAD/docs/screenshots/timeline.jpg" alt="Loupe photo timeline"></a><br><sub><b>Loupe</b> · photo timeline</sub></td>
-    <td width="50%"><a href="https://github.com/kaptanoguz/Homeflix_2"><img src="https://raw.githubusercontent.com/kaptanoguz/Homeflix_2/HEAD/docs/screenshots/home.jpg" alt="Homeflix home page"></a><br><sub><b>Homeflix</b> · home page</sub></td>
+    <td width="50%"><a href="https://github.com/kaptanoguz/Homeflix_2"><img src="https://raw.githubusercontent.com/kaptanoguz/Homeflix_2/HEAD/docs/screenshots/home.jpg" alt="Lumbuz home page"></a><br><sub><b>Lumbuz</b> · home page</sub></td>
   </tr>
 </table>
 

@@ -34,3 +34,5 @@ I'm a ship's captain who writes software. Most of what's here started as a tool 
 </table>
 
 <p align="center"><a href="https://github.com/kaptanoguz/ShiftDrop"><img src="https://raw.githubusercontent.com/kaptanoguz/ShiftDrop/HEAD/docs/screenshots/wheels.png" alt="ShiftDrop conversion wheels" width="80%"></a><br><sub><b>ShiftDrop</b> · convert, tools and actions wheels</sub></p>
+
+<p align="center"><a href="https://github.com/kaptanoguz/torrent"><img src="https://raw.githubusercontent.com/kaptanoguz/torrent/HEAD/docs/home.png" alt="Compass home page" width="80%"></a><br><sub><b>Compass</b> · home page</sub></p>

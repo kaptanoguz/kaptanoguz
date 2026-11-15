@@ -20,6 +20,16 @@ I'm a ship's captain who writes software. Most of what's here started as a tool 
 | [**Lumbuz**](https://github.com/kaptanoguz/Homeflix_2) | Self-hosted, Netflix-style home media server for your own movies and series, with posters, collections, resume and subtitles. |
 | [**Compass**](https://github.com/kaptanoguz/torrent) | Simple torrent search and download app built on qBittorrent, with ratings, posters and streaming while downloading. |
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="180" alt="Kaptanoguz GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaptanoguz&show_icons=true&hide_border=true&theme=default" />
+  <img height="180" alt="Kaptanoguz most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanoguz&layout=compact&langs_count=8&hide_border=true&theme=default" />
+</p>
+<p align="center">
+  <img alt="Kaptanoguz GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kaptanoguz&hide_border=true&theme=default" />
+</p>
+
 ## 📸 A few screenshots
 
 <table>

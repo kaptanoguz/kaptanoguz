@@ -23,12 +23,19 @@ I'm a ship's captain who writes software. Most of what's here started as a tool 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="180" alt="Kaptanoguz GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaptanoguz&show_icons=true&hide_border=true&theme=default" />
-  <img height="180" alt="Kaptanoguz most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptanoguz&layout=compact&langs_count=8&hide_border=true&theme=default" />
-</p>
-<p align="center">
   <img alt="Kaptanoguz GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kaptanoguz&hide_border=true&theme=default" />
 </p>
+
+### 🧮 Languages I use most (manual summary)
+
+Counted by how many of my projects use each stack, based on the technologies documented in this README and my own projects. This is not byte-based GitHub data.
+
+| Language | Usage | Projects |
+|---|---|---|
+| Rust | `████` | 2 |
+| C++ | `████` | 2 |
+| TypeScript / JavaScript | `████` | 2 |
+| Python | `████` | 2 |
 
 ## 📸 A few screenshots
 
